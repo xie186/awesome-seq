@@ -16,3 +16,8 @@ HOME (histogram of methylation) is a python package for differential methylation
 
 ## Visualization tools
 
+### [ViewBS](https://github.com/xie186/ViewBS)
+
+ViewBS - Tools for exploring and visualizing bisulfite sequencing (BS-seq) data. Edit
+
+
