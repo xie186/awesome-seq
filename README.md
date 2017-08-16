@@ -2,6 +2,10 @@
 
 ## Mapping tools
 
+#### [Bismark](https://www.bioinformatics.babraham.ac.uk/projects/bismark/)
+
+A tool to map bisulfite converted sequence reads and determine cytosine methylation states
+
 ## DMR detection tools
 
 
