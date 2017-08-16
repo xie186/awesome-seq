@@ -24,6 +24,10 @@ ViewBS - Tools for exploring and visualizing bisulfite sequencing (BS-seq) data.
 
 BSviewer: a genotype-preserving, nucleotide-level visualizer for bisulfite sequencing data
 
+### [IGV](software.broadinstitute.org/software/igv/)
+
+The Integrative Genomics Viewer (IGV) is a high-performance visualization tool for interactive exploration of large, integrated genomic datasets.
+
 
 
 
