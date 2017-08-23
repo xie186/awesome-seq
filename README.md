@@ -69,7 +69,9 @@ The Integrative Genomics Viewer (IGV) is a high-performance visualization tool f
 ## Classic papers <a name="publication"></a>
 ### [Spatiotemporal DNA Methylome Dynamics of the Developing Mammalian Fetus](http://www.biorxiv.org/content/biorxiv/early/2017/07/21/166744.1.full.pdf)
 
-### 
+### [MINI REVIEW: Statistical methods for detecting differentially](http://bioinfo2.ugr.es/DMRs/Robinson_2014_Statistical%20methods%20for%20detecting%20DMCs.pdf)
+
+
 
 
 
