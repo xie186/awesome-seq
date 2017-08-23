@@ -16,6 +16,10 @@
 
 A quality control tool for high throughput sequence data.
 
+#### [prinseq](http://prinseq.sourceforge.net/)
+
+Easy and rapid quality control and data preprocessing.
+
 #### [Cutadapt](http://cutadapt.readthedocs.io/en/stable/guide.html)
 
 cutadapt removes adapter sequences from sequencing reads
@@ -46,11 +50,11 @@ Most existing methods developed to identify differentially methylated loci (DML)
 
 This is a package for the discovery of regulatory regions from Bis-seq data
 
-#### [prinseq](http://prinseq.sourceforge.net/)
-
-Easy and rapid quality control and data preprocessing.
 
 
+#### [methylpy](https://github.com/yupenghe/methylpy/)
+
+Good for identifying DMRs for multiple groups of samples. 
 
 
 ## Visualization tools <a name="view"></a>
