@@ -1,10 +1,20 @@
 # BS-seq_pipeline
 
+## Read quality control
+
+#### FastQC
+
+#### [Cutadapt](http://cutadapt.readthedocs.io/en/stable/guide.html)
+
+
+
 ## Mapping tools
 
 #### [Bismark](https://www.bioinformatics.babraham.ac.uk/projects/bismark/)
 
 A tool to map bisulfite converted sequence reads and determine cytosine methylation states
+
+#### [methylpy](https://github.com/yupenghe/methylpy/)
 
 ## DMR detection tools
 
