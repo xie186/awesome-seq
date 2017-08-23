@@ -2,11 +2,13 @@
 
 ## Read quality control
 
-#### FastQC
+#### [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+
+A quality control tool for high throughput sequence data.
 
 #### [Cutadapt](http://cutadapt.readthedocs.io/en/stable/guide.html)
 
-
+cutadapt removes adapter sequences from sequencing reads
 
 ## Mapping tools
 
