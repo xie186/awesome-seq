@@ -4,7 +4,9 @@
 3. [Tools for DMR](#DMR)
 4. [Tools for visulization](#view)
 
-# BS-seq_pipeline 
+# BS-seq_pipeline
+
+## Workflow <a name="workflow"></a>
 
 ## Read quality control <a name="quality_control"></a>
 
@@ -62,6 +64,14 @@ BSviewer: a genotype-preserving, nucleotide-level visualizer for bisulfite seque
 ### [IGV](software.broadinstitute.org/software/igv/)
 
 The Integrative Genomics Viewer (IGV) is a high-performance visualization tool for interactive exploration of large, integrated genomic datasets.
+
+
+## Classic papers <a name="publication"></a>
+### [Spatiotemporal DNA Methylome Dynamics of the Developing Mammalian Fetus](http://www.biorxiv.org/content/biorxiv/early/2017/07/21/166744.1.full.pdf)
+
+### 
+
+
 
 
 
