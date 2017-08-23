@@ -3,6 +3,8 @@
 2. [Tools for alignment](#alignment)
 3. [Tools for DMR](#DMR)
 4. [Tools for visulization](#view)
+5. [Classic papers](#publication)
+
 
 # BS-seq_pipeline
 
