@@ -27,6 +27,14 @@ HOME (histogram of methylation) is a python package for differential methylation
 
 Most existing methods developed to identify differentially methylated loci (DML) use mean signals only, and only a few methods were developed to identify DML using both mean and variance signals, while all existing methods to detect differentially methylated regions (DMRs) focus on mean signals only. This R code is for the new DMR detection algorithm we proposed that uses mean and variance combined signals.
 
+#### [MethylSeekR](https://bioconductor.org/packages/release/bioc/html/MethylSeekR.html)
+
+This is a package for the discovery of regulatory regions from Bis-seq data
+
+#### [prinseq](http://prinseq.sourceforge.net/)
+
+Easy and rapid quality control and data preprocessing.
+
 
 
 
