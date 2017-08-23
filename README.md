@@ -1,11 +1,12 @@
 # Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+1. [Read quality control](#quality_control)
+2. [Tools for alignment](#alignment)
+3. [Tools for DMR](#DMR)
+4. [Tools for visulization](#view)
 
-# BS-seq_pipeline
+# BS-seq_pipeline 
 
-## Read quality control
+## Read quality control <a name="quality_control"></a>
 
 #### [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 
@@ -15,7 +16,7 @@ A quality control tool for high throughput sequence data.
 
 cutadapt removes adapter sequences from sequencing reads
 
-## Mapping tools
+## Tools for alignment <a name="alignment"></a>
 
 #### [Bismark](https://www.bioinformatics.babraham.ac.uk/projects/bismark/)
 
@@ -23,7 +24,7 @@ A tool to map bisulfite converted sequence reads and determine cytosine methylat
 
 #### [methylpy](https://github.com/yupenghe/methylpy/)
 
-## DMR detection tools
+## DMR detection tools <a name="DMR"></a>
 
 #### [swDMR](https://github.com/xflicsu/swDMR)
 
@@ -48,7 +49,7 @@ Easy and rapid quality control and data preprocessing.
 
 
 
-## Visualization tools
+## Visualization tools <a name="view"></a>
 
 ### [ViewBS](https://github.com/xie186/ViewBS)
 
