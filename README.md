@@ -24,6 +24,15 @@ Easy and rapid quality control and data preprocessing.
 
 cutadapt removes adapter sequences from sequencing reads
 
+## Tools for assigning methylcytosine
+
+[Bycom]
+
+## Identification of UMRs and LMRs
+
+[MethylSeekR](http://www.bioconductor.org/packages/release/bioc/html/MethylSeekR.html)
+
+
 ## Tools for alignment <a name="alignment"></a>
 
 #### [Bismark](https://www.bioinformatics.babraham.ac.uk/projects/bismark/)
