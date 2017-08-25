@@ -61,7 +61,9 @@ Most existing methods developed to identify differentially methylated loci (DML)
 
 This is a package for the discovery of regulatory regions from Bis-seq data
 
+#### [moabs](https://github.com/sunnyisgalaxy/moabs)
 
+Beta-Binomial hierachical model. 
 
 #### [methylpy](https://github.com/yupenghe/methylpy/)
 
