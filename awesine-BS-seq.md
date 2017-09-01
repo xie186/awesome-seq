@@ -49,6 +49,8 @@ A tool to map bisulfite converted sequence reads and determine cytosine methylat
 
 #### [swDMR](https://github.com/xflicsu/swDMR)
 
+#### [dmrseq](https://github.com/kdkorthauer/dmrseq)
+
 #### [methylKit]
 
 A Sliding Window Approach to Identify Differentially Methylated Regions Based on Whole Genome Bisulfite Sequencing
