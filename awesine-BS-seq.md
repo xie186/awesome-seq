@@ -49,7 +49,7 @@ A tool to map bisulfite converted sequence reads and determine cytosine methylat
 
 #### [swDMR](https://github.com/xflicsu/swDMR)
 
-#### [dmrseq](https://github.com/kdkorthauer/dmrseq)
+#### [dmrseq](https://github.com/kdkorthauer/dmrseq) by Keegan Korthauer
 
 #### [methylKit]
 
