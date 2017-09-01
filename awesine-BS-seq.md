@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Read quality control](#quality_control)
+1. [Quality control](#quality_control)
 2. [Tools for alignment](#alignment)
 3. [Tools for DMR](#DMR)
 4. [Tools for visulization](#view)
@@ -10,7 +10,7 @@
 
 ## Workflow <a name="workflow"></a>
 
-## Read quality control <a name="quality_control"></a>
+## Quality control <a name="quality_control"></a>
 
 #### [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 
@@ -23,6 +23,10 @@ Easy and rapid quality control and data preprocessing.
 #### [Cutadapt](http://cutadapt.readthedocs.io/en/stable/guide.html)
 
 cutadapt removes adapter sequences from sequencing reads
+
+#### 
+
+[BSeQC](https://github.com/hutuqiu/bseqc)
 
 ## Tools for assigning methylcytosine
 
