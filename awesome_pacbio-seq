@@ -1,5 +1,12 @@
 # awesome_pacbio-seq
 
+## Alignment
+
+### [minialign](https://github.com/ocxtal/minialign)
+
+fast and accurate alignment tool for PacBio and Nanopore long reads
+
+
 ## Epigentic modification
 
 ### Tools for DMR
