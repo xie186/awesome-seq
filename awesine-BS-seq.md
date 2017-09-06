@@ -79,6 +79,12 @@ Beta-Binomial hierachical model.
 
 Good for identifying DMRs for multiple groups of samples. 
 
+#### [ABBA](https://github.com/SystemsGeneticsSG/ABBA)
+
+[Paper link](http://www.biorxiv.org/content/biorxiv/early/2017/02/20/041715.full.pdf)
+
+
+
 
 ## Visualization tools <a name="view"></a>
 
