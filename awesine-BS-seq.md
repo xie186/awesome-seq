@@ -85,6 +85,8 @@ Good for identifying DMRs for multiple groups of samples.
 [Paper link](http://www.biorxiv.org/content/biorxiv/early/2017/02/20/041715.full.pdf)
 
 
+#### [DSS](https://bioconductor.org/packages/release/bioc/html/DSS.html): Dispersion shrinakge for sequencing data.
+
 
 
 ## Visualization tools <a name="view"></a>
