@@ -69,6 +69,7 @@ This is a package for the discovery of regulatory regions from Bis-seq data
 
 #### [methylKit](https://bioconductor.org/packages/release/bioc/html/methylKit.html)
 
+#### [metilene](http://www.bioinf.uni-leipzig.de/Software/metilene/): Fast and sensitive detection of differential DNA methylation
 
 
 #### [moabs](https://github.com/sunnyisgalaxy/moabs)
@@ -116,6 +117,9 @@ The Integrative Genomics Viewer (IGV) is a high-performance visualization tool f
 
 
 
+#### [mint](https://github.com/sartorlab/mint)
+
+A pipeline for the integration of DNA methylation and hydroxymethylation data
 
 
 
