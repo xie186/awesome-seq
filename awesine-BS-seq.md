@@ -43,6 +43,12 @@ cutadapt removes adapter sequences from sequencing reads
 
 A tool to map bisulfite converted sequence reads and determine cytosine methylation states
 
+#### [MethylDackel](https://github.com/dpryan79/MethylDackel)
+
+A (mostly) universal methylation extractor for BS-seq experiments.
+
+#### [bwa-meth]()
+
 #### [methylpy](https://github.com/yupenghe/methylpy/)
 
 ## DMR detection tools <a name="DMR"></a>
