@@ -21,6 +21,7 @@
 
 [Gigabase or gigabyte](gigabaseorgigabyte.wordpress.com)
 
+[Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473)
 
 ## Books <a name = "books"></a>
 
