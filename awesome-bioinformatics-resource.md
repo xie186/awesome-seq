@@ -27,6 +27,8 @@ Machine learning related
 
 [David 9的博客 ](http://nooverfit.com/wp/)
 
+[Bioinformatics Hot Topics](http://jura.wi.mit.edu/bio/education/hot_topics/)
+
 ## Books <a name = "books"></a>
 
 ### Machine learning
