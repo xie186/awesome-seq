@@ -23,6 +23,10 @@
 
 [Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473)
 
+Machine learning related
+
+[David 9的博客 ](http://nooverfit.com/wp/)
+
 ## Books <a name = "books"></a>
 
 ### Machine learning
