@@ -35,6 +35,7 @@ Machine learning related
 
 [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/)
 [Think Bayes](http://greenteapress.com/wp/think-bayes/)
+[Doing Bayesian data analysis](http://www.sciencedirect.com/science/book/9780124058880)
 
 #### Practical examples
 
