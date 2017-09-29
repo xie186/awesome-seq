@@ -50,3 +50,9 @@ Machine learning related
 
 [awesome-seq](https://github.com/xie186/awesome-seq)
 
+## Competetions <a name = "competetion"></a>
+
+[DREAM challenges](http://dreamchallenges.org/)
+
+
+
