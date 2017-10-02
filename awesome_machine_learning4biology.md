@@ -22,6 +22,9 @@ Ph.D student in the Department of Computer Science at Stanford, advised by Profe
 
 I have a Bachelor's in Computer Science with Molecular Biology from MIT and spent a year working as a developer for the Healthcare team of Palantir Technologies before starting my PhD.
 
+
+[Data science Curriculum@Purdue](https://www.cs.purdue.edu/undergraduate/curriculum/datascience.html)
+
 ## Important concept
 
 [DeepLIFT](https://github.com/kundajelab/deeplift)
