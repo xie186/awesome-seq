@@ -26,3 +26,6 @@ I have a Bachelor's in Computer Science with Molecular Biology from MIT and spen
 
 [DeepLIFT](https://github.com/kundajelab/deeplift)
 
+
+
+[Deep Learning in Genomics and Biomedicine](https://canvas.stanford.edu/courses/51037)
