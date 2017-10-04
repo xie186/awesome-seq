@@ -32,3 +32,12 @@ I have a Bachelor's in Computer Science with Molecular Biology from MIT and spen
 
 
 [Deep Learning in Genomics and Biomedicine](https://canvas.stanford.edu/courses/51037)
+
+
+## Feature selection
+
+### Feature seleciton in SVM
+
+[Example for svm feature selection in R](https://stackoverflow.com/questions/17529537/example-for-svm-feature-selection-in-r)
+
+
