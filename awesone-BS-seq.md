@@ -24,6 +24,8 @@ Easy and rapid quality control and data preprocessing.
 
 cutadapt removes adapter sequences from sequencing reads
 
+
+
 #### 
 
 [BSeQC](https://github.com/hutuqiu/bseqc)
@@ -67,7 +69,7 @@ HOME (histogram of methylation) is a python package for differential methylation
 
 #### [Differentially Methylated Regions (DMRs) detection](http://www.columbia.edu/~sw2206/softwares.htm)
 
-Most existing methods developed to identify differentially methylated loci (DML) use mean signals only, and only a few methods were developed to identify DML using both mean and variance signals, while all existing methods to detect differentially methylated regions (DMRs) focus on mean signals only. This R code is for the new DMR detection algorithm we proposed that uses mean and variance combined signals.
+Most existing methods developed to identify differentially methylated loci (DML) use mean signals only, and only a few methods were developed to identify DML using both mean and variance signals, while all existing methods to detect differentially methylated regions (DMRs) focus on mean signals only. This R code is for the new DMR detection algorithm we proposed that uses mean and variance combined signals
 
 #### [MethylSeekR](https://bioconductor.org/packages/release/bioc/html/MethylSeekR.html)
 
@@ -93,7 +95,9 @@ Good for identifying DMRs for multiple groups of samples.
 
 #### [DSS](https://bioconductor.org/packages/release/bioc/html/DSS.html): Dispersion shrinakge for sequencing data.
 
+#### [BAT](http://www.bioinf.uni-leipzig.de/Software/BAT/): Bisulfite Analysis Toolkit
 
+Here, a modular bisulfite analysis toolkit (BAT) is introduced. It tackles the major tasks for analyzing bisulfite sequencing data: mapping, extraction of the methylation information (referred to as methylation calling), and differential methylation analysis as well as downstream analyses like integration of the methylation data with annotation and gene expression data. Each part of this analysis workflow is modular and can easily be customized or extended by other bisulfite- or NGS-related tools, but can also be used as is with the additional benefit of many automatically generated graphics by the modules of BAT.
 
 ## Visualization tools <a name="view"></a>
 
@@ -121,8 +125,6 @@ The Integrative Genomics Viewer (IGV) is a high-performance visualization tool f
 ### [Spatiotemporal DNA Methylome Dynamics of the Developing Mammalian Fetus](http://www.biorxiv.org/content/biorxiv/early/2017/07/21/166744.1.full.pdf)
 
 ### [MINI REVIEW: Statistical methods for detecting differentially](http://bioinfo2.ugr.es/DMRs/Robinson_2014_Statistical%20methods%20for%20detecting%20DMCs.pdf)
-
-
 
 
 #### [mint](https://github.com/sartorlab/mint)
