@@ -55,4 +55,7 @@ Machine learning related
 [DREAM challenges](http://dreamchallenges.org/)
 
 
+[Karl Broman](http://kbroman.org/)
+
+This is the personal website for Professor Karl Broman. It includes the talks and tutorials which are useful. 
 
