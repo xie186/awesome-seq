@@ -99,6 +99,14 @@ Good for identifying DMRs for multiple groups of samples.
 
 Here, a modular bisulfite analysis toolkit (BAT) is introduced. It tackles the major tasks for analyzing bisulfite sequencing data: mapping, extraction of the methylation information (referred to as methylation calling), and differential methylation analysis as well as downstream analyses like integration of the methylation data with annotation and gene expression data. Each part of this analysis workflow is modular and can easily be customized or extended by other bisulfite- or NGS-related tools, but can also be used as is with the additional benefit of many automatically generated graphics by the modules of BAT.
 
+#### [GEMBS Pipeline](http://statgen.cnag.cat/gemBS/#)
+
+https://www.biorxiv.org/content/early/2017/10/11/201988
+
+GEMBS is a bioinformatic pipeline designed for hightroughput analysis of DNA methylation from whole genome bisulfites sequencing data (WGBS). It implements GEM3, a high performance read aligner and BScall, a variant caller specifically for bisulfite sequencing data.
+
+
+
 ## Visualization tools <a name="view"></a>
 
 ### [ViewBS](https://github.com/xie186/ViewBS)
