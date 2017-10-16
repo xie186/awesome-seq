@@ -7,6 +7,8 @@
 
 ## Blogs <a name='blogs'></a>
 
+[ListenData](http://www.listendata.com/p/r-programming-tutorials.html)
+
 [Blue Collar Bioinformatics](http://bcb.io/) ([Old link](https://bcbio.wordpress.com/))
 
 [OMGeomics](http://omgenomics.com/)
