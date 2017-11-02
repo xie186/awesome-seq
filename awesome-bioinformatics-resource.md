@@ -61,3 +61,5 @@ Machine learning related
 
 This is the personal website for Professor Karl Broman. It includes the talks and tutorials which are useful. 
 
+[Bioconductor for Genomic Data Science](https://kasperdanielhansen.github.io/genbioconductor/)
+
