@@ -63,3 +63,7 @@ This is the personal website for Professor Karl Broman. It includes the talks an
 
 [Bioconductor for Genomic Data Science](https://kasperdanielhansen.github.io/genbioconductor/)
 
+[HarvardX Biomedical Data Science Open Online Training]http://rafalab.github.io/pages/harvardx.html
+
+
+
