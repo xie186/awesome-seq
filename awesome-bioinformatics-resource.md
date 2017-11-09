@@ -31,6 +31,12 @@ Machine learning related
 
 [Bioinformatics Hot Topics](http://jura.wi.mit.edu/bio/education/hot_topics/)
 
+[Not So Standard Deviations](https://hilaryparker.com/)
+
+> Hilary Parker, a Senior Data Analyst at Etsy
+
+[Karl Broman](http://kbroman.org/pages/tutorials.html)
+
 ## Books <a name = "books"></a>
 
 ### Machine learning
