@@ -11,8 +11,9 @@ Genotype data(Supplement 2): https://dl.sciencesocieties.org/publications/tpg/su
 paper: Genome-based establishment of a high-yielding heterotic pattern for hybrid wheat breeding
 
 
+Genomic Relationships and GBLUP
 
-
+http://articles.extension.org/pages/68019/genomic-relationships-and-gblup#.UgJrYWRgYXc
 
 
 ## Dataset for machine learning
